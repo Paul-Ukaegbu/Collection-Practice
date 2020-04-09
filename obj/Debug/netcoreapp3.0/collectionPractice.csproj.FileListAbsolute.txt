@@ -1,0 +1,11 @@
+C:\Users\pauli\OneDrive\VS coding\Coding_Dojo\c_sharp\collectionPractice\bin\Debug\netcoreapp3.0\collectionPractice.exe
+C:\Users\pauli\OneDrive\VS coding\Coding_Dojo\c_sharp\collectionPractice\bin\Debug\netcoreapp3.0\collectionPractice.deps.json
+C:\Users\pauli\OneDrive\VS coding\Coding_Dojo\c_sharp\collectionPractice\bin\Debug\netcoreapp3.0\collectionPractice.runtimeconfig.json
+C:\Users\pauli\OneDrive\VS coding\Coding_Dojo\c_sharp\collectionPractice\bin\Debug\netcoreapp3.0\collectionPractice.runtimeconfig.dev.json
+C:\Users\pauli\OneDrive\VS coding\Coding_Dojo\c_sharp\collectionPractice\bin\Debug\netcoreapp3.0\collectionPractice.dll
+C:\Users\pauli\OneDrive\VS coding\Coding_Dojo\c_sharp\collectionPractice\bin\Debug\netcoreapp3.0\collectionPractice.pdb
+C:\Users\pauli\OneDrive\VS coding\Coding_Dojo\c_sharp\collectionPractice\obj\Debug\netcoreapp3.0\collectionPractice.csprojAssemblyReference.cache
+C:\Users\pauli\OneDrive\VS coding\Coding_Dojo\c_sharp\collectionPractice\obj\Debug\netcoreapp3.0\collectionPractice.AssemblyInfoInputs.cache
+C:\Users\pauli\OneDrive\VS coding\Coding_Dojo\c_sharp\collectionPractice\obj\Debug\netcoreapp3.0\collectionPractice.AssemblyInfo.cs
+C:\Users\pauli\OneDrive\VS coding\Coding_Dojo\c_sharp\collectionPractice\obj\Debug\netcoreapp3.0\collectionPractice.dll
+C:\Users\pauli\OneDrive\VS coding\Coding_Dojo\c_sharp\collectionPractice\obj\Debug\netcoreapp3.0\collectionPractice.pdb
